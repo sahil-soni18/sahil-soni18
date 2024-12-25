@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-soni18&show_icons=true&locale=en&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="sahil-soni18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-soni18&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="sahil-soni18" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-soni18&theme=black-ice&background=000000&ring=ffffff&fire=00ff00&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=00ff00" alt="sahil-soni18" /></p>
