@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-soni18&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-soni18" /> </p>
 
-- 🔭 I’m currently working on [NextReads](https://github.com/sahil-soni18/NextReads)
+- 🔭 I’m currently working on [StepWiseMart]([https://github.com/sahil-soni18/StepWiseMart](https://github.com/sahil-soni18/StepWiseMart))
 
-- 🌱 I’m currently learning **NextJS, Machine Learning**
+- 🌱 I’m currently learning **Docker, AWS**
 
 - 📫 How to reach me **Sahils1810@gmail.com**
 
