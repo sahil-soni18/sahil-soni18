@@ -13,6 +13,8 @@
 - 📫 How to reach me **Sahils1810@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sahil-soni-b64a75241/](https://www.linkedin.com/in/sahil-soni-b64a75241/)
+- 
+- 📄 Know about my Resume [https://drive.google.com/file/d/10_erWGtDt2EZylde_FGHp9QuWzgRzdpC/view?usp=drive_link](https://drive.google.com/file/d/10_erWGtDt2EZylde_FGHp9QuWzgRzdpC/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
