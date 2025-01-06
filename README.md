@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sahil-soni18/sahil-soni18/refs/heads/main/DALL%C2%B7E%202024-12-25%2019.04.20%20-%20An%20animated-style%20GIF%20representation%20of%20a%20modern%20web%20application%20demo%20showing%20smooth%20user%20interaction%20with%20a%20clean%2C%20minimalist%20interface.%20The%20demo%20inc.webp" alt="Generated Image" height="300">
+<img src="https://raw.githubusercontent.com/sahil-soni18/sahil-soni18/refs/heads/main/DALL%C2%B7E%202024-12-25%2019.04.20%20-%20An%20animated-style%20GIF%20representation%20of%20a%20modern%20web%20application%20demo%20showing%20smooth%20user%20interaction%20with%20a%20clean%2C%20minimalist%20interface.%20The%20demo%20inc.webp" alt="Generated Image" height="400" width="900">
 
 
 <h1 align="center">Hi 👋, I'm Sahil Soni</h1>
