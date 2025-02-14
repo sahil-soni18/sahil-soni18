@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/sahil-soni18/sahil-soni18/refs/heads/main/DALL%C2%B7E%202024-12-25%2019.04.20%20-%20An%20animated-style%20GIF%20representation%20of%20a%20modern%20web%20application%20demo%20showing%20smooth%20user%20interaction%20with%20a%20clean%2C%20minimalist%20interface.%20The%20demo%20inc.webp" alt="Generated Image" height="550" width="900">
 
 
-<h1 align="center">Hi 👋, I'm Sahil Soni...</h1>
+<h1 align="center">Hi 👋, I'm Sahil Soni..</h1>
 <h3 align="center">A passionate Full Stack developer...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-soni18&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-soni18" /> </p>
